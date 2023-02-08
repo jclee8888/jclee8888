@@ -13,8 +13,8 @@
 [![email](./img/email-dark.svg)](mailto:jeffreyclee@gmail.com#gh-light-mode-only)
 
 ### Languages and Tools:
-![typescript](./img/typescript-dark.svg#gh-dark-mode-only)
-![typescript](./img/typescript-light.svg#gh-light-mode-only)
+![typescript](./img/typescript-dark.svg#gh-light-mode-only)
+![typescript](./img/typescript-light.svg#gh-dark-mode-only)
 &nbsp;&nbsp;
 ![javascript](./img/javascript-dark.svg#gh-dark-mode-only)
 ![javascript](./img/javascript-light.svg#gh-light-mode-only)
