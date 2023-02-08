@@ -1,16 +1,42 @@
-### Hi there 👋
+### Hi there, I'm Jeffrey 👋
 
-<!--
-**jclee8888/jclee8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I'm a full-stack software engineer
+- 🌱 I’m currently contributing to Docker Storm, an open-source Docker Swarms health visualization tool (https://dockerstorm.vercel.app/)
+- 🤝 I'm always looking to collaborate on open-source projects
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/jeffreycplee/#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jeffreycplee/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![email](./img/email-light.svg)](mailto:jeffreyclee@gmail.com#gh-light-mode-only)
+[![email](./img/email-dark.svg)](mailto:jeffreyclee@gmail.com#gh-dark-mode-only)
+
+### Languages and Tools:
+![typescript](./img/typescript-dark.svg#gh-dark-mode-only)
+![typescript](./img/typescript-light.svg#gh-light-mode-only)
+&nbsp;&nbsp;
+![javascript](./img/javascript-dark.svg#gh-dark-mode-only)
+![javascript](./img/javascript-light.svg#gh-light-mode-only)
+&nbsp;&nbsp;
+![react](./img/react-dark.svg#gh-dark-mode-only)
+![react](./img/react-light.svg#gh-light-mode-only)
+&nbsp;&nbsp;
+![redux](./img/redux-dark.svg#gh-dark-mode-only)
+&nbsp;&nbsp;
+![react query](./img/reactQuery-dark.svg#gh-dark-mode-only)
+&nbsp;&nbsp;
+![node.js](./img/node.svg#gh-dark-mode-only)
+&nbsp;&nbsp;
+![next.js](./img/next.svg#gh-dark-mode-only)
+&nbsp;&nbsp;
+![MySQL](./img/mysql-dark.svg#gh-dark-mode-only)
+![MySQL](./img/mysql-light.svg#gh-light-mode-only)
+&nbsp;&nbsp;
+![mongoDB](./img/mongodb-dark.svg#gh-dark-mode-only)
+&nbsp;&nbsp;
+![Docker](./img/docker-dark.svg#gh-dark-mode-only)
+&nbsp;&nbsp;
+![jest](./img/jest-dark.svg#gh-dark-mode-only)
+&nbsp;&nbsp;
+![cypress](./img/cypress-dark.svg#gh-dark-mode-only)
