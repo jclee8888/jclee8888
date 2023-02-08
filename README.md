@@ -23,20 +23,28 @@
 ![react](./img/react-light.svg#gh-light-mode-only)
 &nbsp;&nbsp;
 ![redux](./img/redux-dark.svg#gh-dark-mode-only)
+![redux](./img/redux-light.svg#gh-light-mode-only)
 &nbsp;&nbsp;
 ![react query](./img/reactQuery-dark.svg#gh-dark-mode-only)
+![react query](./img/reactQuery-light.svg#gh-light-mode-only)
 &nbsp;&nbsp;
-![node.js](./img/node.svg#gh-dark-mode-only)
+![node.js](./img/node-dark.svg#gh-dark-mode-only)
+![node.js](./img/node-light.svg#gh-light-mode-only)
 &nbsp;&nbsp;
-![next.js](./img/next.svg#gh-dark-mode-only)
+![next.js](./img/next-dark.svg#gh-dark-mode-only)
+![next.js](./img/next-light.svg#gh-light-mode-only)
 &nbsp;&nbsp;
 ![MySQL](./img/mysql-dark.svg#gh-dark-mode-only)
 ![MySQL](./img/mysql-light.svg#gh-light-mode-only)
 &nbsp;&nbsp;
 ![mongoDB](./img/mongodb-dark.svg#gh-dark-mode-only)
+![mongoDB](./img/mongodb-light.svg#gh-light-mode-only)
 &nbsp;&nbsp;
 ![Docker](./img/docker-dark.svg#gh-dark-mode-only)
+![Docker](./img/docker-light.svg#gh-light-mode-only)
 &nbsp;&nbsp;
 ![jest](./img/jest-dark.svg#gh-dark-mode-only)
+![jest](./img/jest-light.svg#gh-light-mode-only)
 &nbsp;&nbsp;
 ![cypress](./img/cypress-dark.svg#gh-dark-mode-only)
+![cypress](./img/cypress-light.svg#gh-light-mode-only)
