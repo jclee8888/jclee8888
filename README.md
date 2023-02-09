@@ -13,37 +13,25 @@
 [![email](./img/email-light.svg)](mailto:jeffreyclee@gmail.com#gh-light-mode-only)
 
 ### Languages and Tools:
-![<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />]
+<img alt="typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 &nbsp;&nbsp;
-![javascript](./img/javascript-dark.svg#gh-dark-mode-only)
-![javascript](./img/javascript-light.svg#gh-light-mode-only)
+<img alt="javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 &nbsp;&nbsp;
-![react](./img/react-dark.svg#gh-dark-mode-only)
-![react](./img/react-light.svg#gh-light-mode-only)
+<img alt="react" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 &nbsp;&nbsp;
-![redux](./img/redux-dark.svg#gh-dark-mode-only)
-![redux](./img/redux-light.svg#gh-light-mode-only)
+<img alt="redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 &nbsp;&nbsp;
-![react query](./img/reactQuery-dark.svg#gh-dark-mode-only)
-![react query](./img/reactQuery-light.svg#gh-light-mode-only)
+<img alt="node" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 &nbsp;&nbsp;
-![node.js](./img/node-dark.svg#gh-dark-mode-only)
-![node.js](./img/node-light.svg#gh-light-mode-only)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 &nbsp;&nbsp;
-![next.js](./img/next-dark.svg#gh-dark-mode-only)
-![next.js](./img/next-light.svg#gh-light-mode-only)
+<img alt="mySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 &nbsp;&nbsp;
-![MySQL](./img/mysql-dark.svg#gh-dark-mode-only)
-![MySQL](./img/mysql-light.svg#gh-light-mode-only)
+<img alt="mongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 &nbsp;&nbsp;
-![mongoDB](./img/mongodb-dark.svg#gh-dark-mode-only)
-![mongoDB](./img/mongodb-light.svg#gh-light-mode-only)
+<img alt="docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
 &nbsp;&nbsp;
-![Docker](./img/docker-dark.svg#gh-dark-mode-only)
-![Docker](./img/docker-light.svg#gh-light-mode-only)
-&nbsp;&nbsp;
-![jest](./img/jest-dark.svg#gh-dark-mode-only)
-![jest](./img/jest-light.svg#gh-light-mode-only)
+<img alt="jest" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 &nbsp;&nbsp;
 ![cypress](./img/cypress-dark.svg#gh-dark-mode-only)
 ![cypress](./img/cypress-light.svg#gh-light-mode-only)
