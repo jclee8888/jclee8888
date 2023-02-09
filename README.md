@@ -13,7 +13,7 @@
 [![email](./img/email-light.svg)](mailto:jeffreyclee@gmail.com#gh-light-mode-only)
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />" style="padding-right:10px;" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />]
 ![typescript](./img/typescript-dark.svg#gh-light-mode-only)
 ![typescript](./img/typescript-light.svg#gh-dark-mode-only)
 &nbsp;&nbsp;
