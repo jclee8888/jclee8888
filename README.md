@@ -13,7 +13,7 @@
 [![email](./img/email-light.svg)](mailto:jeffreyclee@gmail.com#gh-light-mode-only)
 
 ### Languages and Tools:
-<img alt="typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img alt="typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 &nbsp;&nbsp;
 <img alt="javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 &nbsp;&nbsp;
@@ -23,7 +23,7 @@
 &nbsp;&nbsp;
 <img alt="node" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+<img alt="next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 &nbsp;&nbsp;
 <img alt="mySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 &nbsp;&nbsp;
@@ -33,5 +33,3 @@
 &nbsp;&nbsp;
 <img alt="jest" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 &nbsp;&nbsp;
-![cypress](./img/cypress-dark.svg#gh-dark-mode-only)
-![cypress](./img/cypress-light.svg#gh-light-mode-only)
