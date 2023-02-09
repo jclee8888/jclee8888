@@ -9,8 +9,8 @@
 [![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/jeffreycplee/#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jeffreycplee/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![email](./img/email-light.svg)](mailto:jeffreyclee@gmail.com#gh-dark-mode-only)
-[![email](./img/email-dark.svg)](mailto:jeffreyclee@gmail.com#gh-light-mode-only)
+[![email](./img/email-dark.svg)](mailto:jeffreyclee@gmail.com#gh-dark-mode-only)
+[![email](./img/email-light.svg)](mailto:jeffreyclee@gmail.com#gh-light-mode-only)
 
 ### Languages and Tools:
 ![typescript](./img/typescript-dark.svg#gh-light-mode-only)
