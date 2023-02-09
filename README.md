@@ -14,8 +14,6 @@
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />]
-![typescript](./img/typescript-dark.svg#gh-light-mode-only)
-![typescript](./img/typescript-light.svg#gh-dark-mode-only)
 &nbsp;&nbsp;
 ![javascript](./img/javascript-dark.svg#gh-dark-mode-only)
 ![javascript](./img/javascript-light.svg#gh-light-mode-only)
