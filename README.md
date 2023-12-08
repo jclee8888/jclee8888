@@ -1,8 +1,8 @@
 ### Hi there, I'm Jeffrey 👋
 
-- 👀 I'm a full-stack software engineer
-- 🌱 I’m currently contributing to Docker Storm, an [open-source Docker Swarms health visualization tool] (https://dockerstorm.vercel.app/)
-- 🤝 I'm always looking to collaborate on open-source projects
+- Full-stack software engineer
+- Currently contributing to Docker Storm, an [open-source Docker Swarms health visualization tool] (https://dockerstorm.vercel.app/)
+- Always looking to collaborate on open-source projects
 
 
 ## Connect with me:
