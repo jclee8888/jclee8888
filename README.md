@@ -2,8 +2,8 @@
 
 - Co-Founder @ [Riverside Web Studio](https://riversidewebstudio.com/)
 - Full-stack software engineer
-- Contributor to Docker Storm, an [open-source Docker Swarms health visualization tool](https://dockerstorm.vercel.app/)
-- Always looking to collaborate on open-source projects
+- Contributor to Docker Storm, an [open-source Docker Swarms health visualization tool](https://github.com/oslabs-beta/Docker-Storm)
+
 
 
 ## Connect with me:
