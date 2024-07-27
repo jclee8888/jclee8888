@@ -1,8 +1,8 @@
 ### Hi there, I'm Jeffrey 👋
 
-- Co-Founder @ Riverside Web Studio (https://riversidewebstudio.com}
+- Co-Founder @ [Riverside Web Studio](https://riversidewebstudio.com}
 - Full-stack software engineer
-- Contributor to Docker Storm, an [open-source Docker Swarms health visualization tool] (https://dockerstorm.vercel.app/)
+- Contributor to Docker Storm, an [open-source Docker Swarms health visualization tool](https://dockerstorm.vercel.app/)
 - Always looking to collaborate on open-source projects
 
 
